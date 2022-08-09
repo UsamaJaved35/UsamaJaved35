@@ -49,6 +49,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
 <a href='https://redux.js.org'><img src='https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67' height='55'
 width='58' alt='Redux Logo' aria-label='redux.js.org' /></a>
+<a href='https://jquery.com/'><img src='https://5.imimg.com/data5/CS/FU/MW/GLADMIN-13634783/selection-217-500x500.png' height='55'
+width='58' alt='Redux Logo' /></a>
 </p>
 
 ## Let's Connect
