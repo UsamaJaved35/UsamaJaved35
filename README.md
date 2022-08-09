@@ -48,15 +48,15 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
 <a href='https://redux.js.org'><img src='https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67' height='55'
-width='58' alt='Redux Logo' aria-label='redux.js.org' /></a>
+width='61' alt='Redux Logo' aria-label='redux.js.org' /></a>
 <a href='https://jquery.com/'><img src='https://5.imimg.com/data5/CS/FU/MW/GLADMIN-13634783/selection-217-500x500.png' height='55'
-width='58' alt='Redux Logo' /></a>
+width='61' alt='Redux Logo' /></a>
 </p>
 
 ## Let's Connect
 <br/>
 <p align="center">
-	<a href="mailto:UsamaJaved35m012@gmail.com">
+	<a href="mailto:usamamughal4949@gmail.com">
 		<img  alt="usamamughal4949@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
 	<a href="https://www.linkedin.com/in/usama-javed-37b5aa211/">
