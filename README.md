@@ -1,13 +1,11 @@
 
 # Hello Everyone, I'm Usama Javed 👋
 
-### I am a Student, Developer, and Web Enthusiast
-- 😄 I am currently striving to learn, develop & Grow.
-- 🔭 I am currently working on MERN Stack.
-- 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development.
+### I am a Student , Freelancer and a Tech Enthusiast guy.
+- 😄 I am a part time freelancer providing different IT Services.
+- 🔭 I am currently working on ReactJs , Redux and MERN Stack.
 - 👯 I am looking to collaborate on Web Development Projects.
-- 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible.
-- 📢 I Love to read books, teach and motivate my fellows.
+- 🥅 I want to become a full stack developer.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=UsamaJaved35&color=blueviolet&label=Profile+Views)
@@ -57,19 +55,13 @@
 <br/>
 <p align="center">
 	<a href="mailto:UsamaJaved35m012@gmail.com">
-		<img  alt="UsamaJaved35m012@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+		<img  alt="usamamughal4949@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
-	<a href="https://twitter.com/iqra_sarwar_">
-		<img alt="@iqra_sarwar_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/UsamaJaved35/">
-		<img alt="Iqra Sarwar| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://www.codechef.com/users/UsamaJaved35">
-		<img alt="Iqra Sarwar| CodeChef"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+	<a href="https://www.linkedin.com/in/usama-javed-37b5aa211/">
+		<img alt="Usama Javed| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://github.com/UsamaJaved35">
-		<img alt="Iqra Sarwar| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+		<img alt="Usama Javed| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	<br />
 </p>     
