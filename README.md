@@ -1,11 +1,11 @@
 
 # Hello Everyone, I'm Usama Javed 👋
 
-### I am a Student , Freelancer and a Tech Enthusiast guy.
+### I am a Software Engineer, Freelancer and a Tech Enthusiast guy.
+- 🚀 I am currently working as a Full Stack Software Engineer.
 - 😄 I am a part time freelancer providing different IT Services.
-- 🔭 I am currently working on ReactJs , Redux and MERN Stack.
+- 🔭 I am currently working on ReactJs , Redux , MERN Stack and Ruby on rails 💎.
 - 👯 I am looking to collaborate on Web Development Projects.
-- 🥅 I want to become a full stack developer.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=UsamaJaved35&color=blueviolet&label=Profile+Views)
