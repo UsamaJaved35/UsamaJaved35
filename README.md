@@ -47,10 +47,16 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="nodejs" width="55" height="55"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
-<a href='https://redux.js.org'><img src='https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67' height='55'
+<a href='https://redux.js.org'><img src='https://banner2.cleanpng.com/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg' height='55'
 width='61' alt='Redux Logo' aria-label='redux.js.org' /></a>
 <a href='https://jquery.com/'><img src='https://5.imimg.com/data5/CS/FU/MW/GLADMIN-13634783/selection-217-500x500.png' height='55'
-width='61' alt='Redux Logo' /></a>
+width='61' alt='Jquery logo' /></a>
+<a href='https://rubyonrails.org/'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-PAFsm5avHuWl8FrI_CUAQa0ikC6esaEJQ&s' height='55'
+width='61' alt='Ruby on rails logo' /></a>
+<a href='https://www.elastic.co/elastic-stack'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JJpB_Z4bAftPgzS_8gLAXA0jXnLpp5F3ew&s' height='55'
+width='61' alt='Elastic Stack logo' /></a>
+<a href='https://firebase.google.com/brand-guidelines'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FdcCHCWv3_Zr7wfQxmYz4JDbDGIp4dQIng&s' height='55'
+width='61' alt='Firebase logo' /></a>
 </p>
 
 ## Let's Connect
